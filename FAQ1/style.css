@@ -1,0 +1,30 @@
+.container {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    height: 700px;
+    font-family: inter;
+    background-color: #F2F1F1;
+
+}
+
+.prof {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* text-align: center; */
+}
+.ans{
+    text-align:center;
+    margin: 40px;
+    border: 2px solid skyblue;
+    border-radius: 20px;
+    height: 500px;
+    margin-top: 100px;
+   
+}
+.ans p{
+    margin-top: 100px;
+}

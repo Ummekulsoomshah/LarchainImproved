@@ -1,0 +1,48 @@
+.container {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    height: 700px;
+    font-family: inter;
+    background-color: #F2F1F1;
+    padding: 20px;
+
+}
+h1{
+    text-align: center;
+}
+.q{
+    width: 350px;
+    border-radius: 30px;
+    border: 2px solid skyblue;
+    text-align: center;
+    height: 80px;
+    margin: 20px;
+
+
+}
+
+footer{
+    margin-top: 80px;
+     position: relative;
+     bottom: 0;
+     left: 0;
+     right: 0;
+     border-top: 1px solid black;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     padding-left: 10px;
+ 
+ }
+ footer a{
+     margin: 20px;
+     /* width: 20px; */
+ }
+ footer i{
+    font-size: 25px;
+     top: 757px;
+     left: 29px;
+     color: black;
+     
+ }
